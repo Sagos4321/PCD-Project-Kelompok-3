@@ -1,10 +1,10 @@
 # PCD-Project-Kelompok-3
 
 ## Nama Anggota
-###  NEZA HABIB AZHARI : F1D02410130
-###  MUHAMMMAD RIDHO KURNIAWAN : F1D02410079
-###  M SAGOS : F1D02410070
-###  GAYATRI PRADNYA AIRA PUTRI : F1D02410113
+1. NEZA HABIB AZHARI : F1D02410130
+2. MUHAMMMAD RIDHO KURNIAWAN : F1D02410079
+3. M SAGOS : F1D02410070
+4. GAYATRI PRADNYA AIRA PUTRI : F1D02410113
 
 # Project Overview
 Kayu merupakan salah satu material yang banyak digunakan dalam industri konstruksi, mebel, dan kerajinan. Identifikasi jenis kayu secara manual umumnya dilakukan berdasarkan pengamatan visual terhadap pola serat kayu, sehingga membutuhkan pengalaman dan keahlian khusus.Dengan memanfaatkan pengolahan citra digital, proses identifikasi jenis kayu dapat dilakukan secara otomatis melalui analisis tekstur permukaan kayu. Karena setiap jenis kayu memiliki karakteristik serat yang berbeda, fitur tekstur yang 
