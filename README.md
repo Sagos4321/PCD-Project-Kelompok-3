@@ -25,13 +25,13 @@ Model klasifikasi yang digunakan dalam project ini adalah:
 - Support Vector Machine (SVM)
 - Random Forest
 
-Project ini tidak hanya berfokus pada nilai akurasi akhir, tetapi juga pada pemilihan preprocessing yang sesuai, proses ekstraksi fitur, serta analisis hasil evaluasi model. Terdapat empat kombinasi preprocessing yang dibandingkan, mulai dari preprocessing sederhana hingga yang lebih kompleks dengan operasi morfologi.
+Project ini tidak hanya berfokus pada nilai akurasi akhir, tetapi juga pada pemilihan preprocessing yang sesuai, proses ekstraksi fitur, serta analisis hasil evaluasi model. Terdapat empat kombinasi preprocessing yang dibandingkan, mulai dari preprocessing sederhana hingga yang lebih kompleks.
 
 # Kombinasi Preprocessing
 
 | Percobaan | Tahapan Preprocessing |
 |-----------|----------------------|
-| Percobaan 1 | Grayscale → Resize → Median Filter |
-| Percobaan 2 | Grayscale → Resize → Histogram Equalization → Median Filter |
-| Percobaan 3 | Grayscale → Resize → Median Filter → Sobel → Roberts |
-| Percobaan 4 | Grayscale → Resize → Median Filter → Sobel → Roberts → Thresholding → Closing → Opening |
+| Percobaan 1 | Resize --> Grayscale |
+| Percobaan 2 | Resize --> Grayscale --> Histogram Equalization |
+| Percobaan 3 | Resize --> Grayscale --> Histogram Equalization --> Median Filter |
+| Percobaan 4 | Resize --> Grayscale --> Histogram Equalization --> Median Filter --> Mean Filter |
