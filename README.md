@@ -33,5 +33,5 @@ Project ini tidak hanya berfokus pada nilai akurasi akhir, tetapi juga pada pemi
 |-----------|----------------------|
 | Percobaan 1 | Resize --> Grayscale |
 | Percobaan 2 | Resize --> Grayscale --> Histogram Equalization |
-| Percobaan 3 | Resize --> Grayscale --> Histogram Equalization --> Median Filter |
-| Percobaan 4 | Resize --> Grayscale --> Histogram Equalization --> Median Filter --> Mean Filter |
+| Percobaan 3 | Resize --> Grayscale --> Median Filter --> Histogram Equalization |
+| Percobaan 4 | Resize --> Grayscale --> Mean Filter --> Median Filter --> Histogram Equalization |
